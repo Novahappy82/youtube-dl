@@ -1,6 +1,1 @@
-# DOWNLOADED VIDEOS LIST :
-
-----
-
-- 1 - 🎯 [Elajjaz-007：-Everything-or-Nothing-Complete-Playthrough](https://github.com/Novahappy82/youtube-dl/tree/main/videos/Elajjaz-007%EF%BC%9A-Everything-or-Nothing-Complete-Playthrough)
-- 2 - 🎹 [Elajjaz-007：-Nightfire-Complete-Playthrough](https://github.com/Novahappy82/youtube-dl/tree/main/videos/Elajjaz-007%EF%BC%9A-Nightfire-Complete-Playthrough)
+this folder is empty. start using with actions
